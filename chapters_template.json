@@ -1,0 +1,19 @@
+{
+  "chapters": [
+    {"name": "Cover", "start_page": 1},
+    {"name": "Definitions", "start_page": 10},
+    {"name": "Summary", "start_page": 30},
+    {"name": "TOC", "start_page": 50},
+    {"name": "Risk Factors", "start_page": 60},
+    {"name": "Industry", "start_page": 120},
+    {"name": "Company Overview", "start_page": 180},
+    {"name": "Business", "start_page": 220},
+    {"name": "Technology", "start_page": 320},
+    {"name": "Management", "start_page": 380},
+    {"name": "Related Parties", "start_page": 420},
+    {"name": "Financials", "start_page": 480},
+    {"name": "Capital", "start_page": 580},
+    {"name": "Legal", "start_page": 650},
+    {"name": "Appendix", "start_page": 700}
+  ]
+}

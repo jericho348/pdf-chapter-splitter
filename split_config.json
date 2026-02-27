@@ -1,0 +1,37 @@
+{
+  "keywords": {
+    "zh": [
+      "业务", "财务", "风险", "公司概况", "管理层", "股权", "关联交易",
+      "募资", "行业", "技术", "竞争优势", "历史沿革", "募集", "治理",
+      "审计", "发行", "中介", "概要", "简介", "重大事项", "股份",
+      "资产", "负债", "利润", "现金流", "分析", "说明", "披露",
+      "备查", "附录", "经营", "讨论", "董事", "监事", "报告", "摘要"
+    ],
+    "en": [
+      "Business", "Financial", "Risk", "Company Overview", "Management",
+      "Equity", "Related Parties", "IPO", "Industry", "Technology",
+      "Competitive Advantage", "History", "Corporate Governance",
+      "Summary", "Profile", "Overview", "Capital", "Assets", "Liabilities",
+      "Profit", "Cash Flow", "Disclosure", "Appendix", "Operations",
+      "Discussion", "Directors", "Report", "Prospectus", "Financials"
+    ]
+  },
+  "custom_keywords": [],
+  "ipo_chapters": [
+    "Cover", "Cover Page", "封面", "声明", "Definitions", "释义",
+    "Summary", "概要", "Synopsis", "概览",
+    "Table of Contents", "目录", "Contents",
+    "Risk Factors", "风险因素", "Risk",
+    "Industry Overview", "行业概况", "Industry",
+    "Company Overview", "公司概况", "公司历史", "History",
+    "Business", "业务", "业务概要", "Business Overview",
+    "Technology", "技术", "研发", "R&D",
+    "Management", "管理层", "Management Team",
+    "Directors", "董事会", "Supervisors", "监事会",
+    "Related Parties", "关联交易", "Related Party Transactions",
+    "Financial Information", "财务信息", "财务资料", "Financials",
+    "Capital", "募集资金", "募资", "Use of Proceeds",
+    "Legal Matters", "法律事项", "Legal",
+    "Appendix", "附录"
+  ]
+}
